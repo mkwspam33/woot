@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="bluetable" max_length="40" name="sn_woot_bluetable" type="collection">
+        <element label="bluecol" max_length="40" name="bluecol" type="string"/>
+        <element label="bluecol2" max_length="40" name="bluecol2" type="string"/>
+    </element>
+</database>
